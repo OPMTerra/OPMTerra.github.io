@@ -1,6 +1,6 @@
 ---
-title: "GSoC 2024 Journey: Optimizing Zarr Storage with Bit-Packing"
-date: 2024-04-08
+title: "GSoC 2025 Journey: Optimizing Zarr Storage with Bit-Packing"
+date: 2025-04-08
 ---
 
 # Welcome to My GSoC 2025 Blog!  
